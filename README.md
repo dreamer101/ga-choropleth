@@ -5,3 +5,5 @@ Read the code [here](http://bl.ocks.org/mbeasley/6821149)
 See the full working version [here](http://bl.ocks.org/mbeasley/raw/6821149/)
 
 And download the code [here](https://github.com/mbeasley/ga-choropleth)
+
+![screenshot](screenshot.png)
