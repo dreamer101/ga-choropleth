@@ -1,0 +1,51 @@
+
+body {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size:.8em;
+}
+
+.d3-container {
+    width: 600px;
+}
+
+.state {
+    fill:none;
+    stroke: black;
+    stroke-width: 3px;
+    stroke-opacity: 1;
+}
+
+.county {
+    fill:lightgray;
+    stroke: none;
+
+}
+
+.county-boundary {
+    fill: none;
+    stroke: black;
+    stroke-dasharray: 2,2;
+    stroke-linejoin: round;
+}
+
+.county:hover {
+    fill:rgb(255, 173, 0);
+}
+
+.q0 { fill:rgb(222,235,247); }
+.q1 { fill:rgb(198,219,239); }
+.q2 { fill:rgb(158,202,225); }
+.q3 { fill:rgb(107,174,214); }
+.q4 { fill:rgb(66,146,198); }
+.q5 { fill:rgb(33,113,181); }
+.q6 { fill:rgb(8,81,156); }
+.q7 { fill:rgb(8,48,107); }
+
+
+.info.header {
+    font-size:2em;
+}
+
+.info.years {
+    font-size:2.5em;
+}
